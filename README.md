@@ -28,12 +28,12 @@ npm install
 Using Terminal
 
 ```sh
-npm run test -- -e PASSWORD = <>,URL= https://the-internet.herokuapp.com/login
+npm run test -- -e PASSWORD=<>,URL=https://the-internet.herokuapp.com/login
 ## PASSWORD value can be found on the URL web page.
 ```
 Using GUI
 ```sh
-npm run test:gui -- -e PASSWORD = <>,URL= https://the-internet.herokuapp.com/login
+npm run test:gui -- -e PASSWORD=<>,URL=https://the-internet.herokuapp.com/login
 ## PASSWORD value can be found on the URL web page.
 ```
 ### Test Scenarios included
