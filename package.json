@@ -1,0 +1,16 @@
+{
+  "name": "airspace-qa-challenge",
+  "version": "1.0.0",
+  "description": "Integration Tests for App Login Page",
+  "main": "index.js",
+  "scripts": {
+    "test:gui": "cypress open",
+    "test" : "cypress run"
+  },
+  "keywords": [],
+  "author": "Nikita Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.4.1"
+  }
+}
